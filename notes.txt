@@ -1,0 +1,10 @@
+Game Searcher
+
+-> Trouvez votre jeu vidéo.
+découvrez votre jeu vidéo qui va vous plaire selon ce que vous avez déjà jouer.
+
+->Compte email/mdp + Choisir les jeux lors de l'inscription + avis sur les jeux
+
+admin : ETQA
+utilisateur : ETQU
+non connecté : ETQV
